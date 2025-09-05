@@ -327,8 +327,8 @@ Healthy vs Diseased: {df['is_healthy'].sum()} healthy, {len(df) - df['is_healthy
                     bbox=[0, 0.15, 1, 0.7])
     
     table.auto_set_font_size(False)
-    table.set_fontsize(7)
-    table.scale(1, 3.5)  # Increased height for wrapped text
+    table.set_fontsize(10)  # Increased from 7 to 10 for better readability
+    table.scale(1, 3.8)  # Slightly increased height for larger text
     
     # Professional styling
     # Header row
