@@ -1,0 +1,11 @@
+tensorflow
+numpy
+pandas
+scikit-learn
+opencv-python
+matplotlib
+seaborn
+cryptography
+flask
+boto3
+ipykernel
